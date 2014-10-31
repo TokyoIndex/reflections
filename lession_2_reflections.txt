@@ -5,5 +5,9 @@ Git creates a master branch
 Git lists the untracked files in the folder
 there is also nothing to commit
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+The staging area is kind of like limbo. It keeps the files separate from the repository and the working director.
+It allows for bundling.
+It allows you to make one commit per logical change.
 
