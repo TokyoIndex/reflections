@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git initializes the folder
+Git creates a master branch
+Git lists the untracked files in the folder
+there is also nothing to commit
+
+
+
