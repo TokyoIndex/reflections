@@ -30,3 +30,8 @@ What is the result of merging two branches together? Why do we represent it in t
 The original is compared with the two branching paths.  Everything that is new or deleted it combined.
 We show it in the diagram as two branches coming together to show the working path of the code.
 Then we merge the commits based on time.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic means that time is saved, and the comparisons are automatic, so no changes are missed.
+However, there is a chance of conflict that still needs to be resolved manually.
+Manual merging is the worst.
