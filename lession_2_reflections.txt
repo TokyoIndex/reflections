@@ -20,3 +20,13 @@ What are some situations when branches would be helpful in keeping your history 
 When you want to add new types of the program
 When you want to try to experimental things
 When you want to building something new and merge it into the master at a later date.
+
+How do the diagrams help you visualize the branch structure?
+They help understand the path the commits take, and how they are connected. 
+It reminds the user that commits are linked to a parent, and if they can't be traced back from a branch, they will be lost.
+It reminds us to make a new branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The original is compared with the two branching paths.  Everything that is new or deleted it combined.
+We show it in the diagram as two branches coming together to show the working path of the code.
+Then we merge the commits based on time.
