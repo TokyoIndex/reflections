@@ -21,3 +21,6 @@ In case you do not have access to the remote or access to the internet, you woul
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would have to share the files manually through email or some other file share service.  Floppy disk?
 That would be waaay harder than using Git or GitHub which seems to automate the whole process.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You make changes to a separate branch so that collaborators are able to see what changes you have made before those changes are merged into the master branch.
